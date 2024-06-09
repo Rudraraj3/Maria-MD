@@ -32,7 +32,7 @@ let afk = require("./Gallery/lib/afk");
 const { fetchBuffer, buffergif } = require("./Gallery/lib/myfunc2")
 
 /////log
- global.modnumber = '919060791616' 
+ global.modnumber = '919883457657' 
 //Gallery/database
 let ntilinkall =JSON.parse(fs.readFileSync('./Gallery/database/antilink.json'));
 // let autoblck =JSON.parse(fs.readFileSync('./Gallery/database/autoblock.json'));
@@ -1949,21 +1949,19 @@ break;
                          
                            
   case 'menu': case 'help': case 'h': 
-      const txt = `╭─「 *Konichiwa* 」
-│⋊ 𝕌𝕤𝕖𝕣: ${pushname} 
-│⋊ 𝔹𝕠𝕥:  ${botname}
-│⋊ ℙ𝕣𝕖𝕗𝕚𝕩:  *${prefix}*
-│⋊ 𝔻𝕒𝕥𝕖: ${xdate}
-│⋊ 𝕋𝕚𝕞𝕖:  ${xtime}
-│⋊ 𝕆𝕨𝕟𝕖𝕣: ${ownername}
-│⋊ 𝕧𝕖𝕣𝕤𝕚𝕠𝕟: ${mver}
-│⋊ ℍ𝕠𝕤𝕥: ${os.hostname()}
-│⋊ ℙ𝕝𝕒𝕥𝕗𝕠𝕣𝕞: ${os.platform()} 
-│⋊ ℝ𝕦𝕟𝕥𝕚𝕞𝕖: ${runtime(process.uptime())}
-│⋊ 𝕋𝕠𝕥𝕒𝕝𝕔𝕞𝕕: ${mariafeature()}
-│⋊ 𝕆𝕗𝕗𝕚𝕔𝕚𝕒𝕝 𝔾𝕣𝕠𝕦𝕡: https://gg.gg/Maria-support
+      const txt = `╭─「 *🔥⃝𝑨𝑵𝑱𝑨𝑵-𝑿𝑫🔥* 」
+│ 𝕌𝕤𝕖𝕣: ${pushname} 
+│ 𝔹𝕠𝕥:  ${botname}
+│ ℙ𝕣𝕖𝕗𝕚𝕩:  *${prefix}*
+│ 𝔻𝕒𝕥𝕖: ${xdate}
+│ 𝕋𝕚𝕞𝕖:  ${xtime}
+│ 𝕆𝕨𝕟𝕖𝕣: ${ownername}
+│ 𝕧𝕖𝕣𝕤𝕚𝕠𝕟: ${mver}
+│ ℍ𝕠𝕤𝕥: ${os.hostname()}
+│ ℙ𝕝𝕒𝕥𝕗𝕠𝕣𝕞: ${os.platform()} 
+│ ℝ𝕦𝕟𝕥𝕚𝕞𝕖: ${runtime(process.uptime())}
+│ 𝕋𝕠𝕥𝕒𝕝𝕔𝕞𝕕: ${mariafeature()}
 ╰────────────┈平和
- 🎀𝐅𝐨𝐥𝐥𝐨𝐰 𝐨𝐧: https://www.instagram.com/ayushpandeyy_023
 
 Here's the list of my Commands.🔖
 ${readmore}
@@ -2375,7 +2373,7 @@ case 'doraemon': {
   reply(mess.wait);
   await Maria.sendMessage(m.chat, {
     image: await getBuffer('https://doremon-api.onrender.com'), // Change the URL to your Doraemon wallpaper
-    caption: 'Check out this Doraemon wallpaper! 🤖✨\n\n© Ayush Botz.Inc', // Customize the caption as you like
+    caption: 'Check out this Doraemon wallpaper! 🤖✨\n\n© Anjan Botz.Inc', // Customize the caption as you like
   }, { quoted: m });
 }
 break;
@@ -2385,7 +2383,7 @@ case 'pokemon': {
   reply(mess.wait);
   await Maria.sendMessage(m.chat, {
     image: await getBuffer('https://ayush-pokemon.onrender.com/'), // Change the URL to your Pokemon wallpaper
-    caption: 'Here is a Pokemon wallpaper for you! ⚡🔥\n\n© Ayush Botz.Inc', // Customize the caption as you like
+    caption: 'Here is a Pokemon wallpaper for you! ⚡🔥\n\n© Anjan Botz.Inc', // Customize the caption as you like
   }, { quoted: m });
 }
 break;
@@ -2395,7 +2393,7 @@ case 'zero-two': {
   reply(mess.wait);
   await Maria.sendMessage(m.chat, {
     image: await getBuffer('https://ayush-zero-two.onrender.com'), // Change the URL to your Zero-Two wallpaper
-    caption: 'Enjoy this Zero-Two wallpaper! ❤️🖤\n\n© Ayush Botz.Inc', // Customize the caption as you like
+    caption: 'Enjoy this Zero-Two wallpaper! ❤️🖤\n\n© Anjan Botz.Inc', // Customize the caption as you like
   }, { quoted: m });
 }
 break;
@@ -2547,7 +2545,7 @@ case 'welcome':
 
 
 case 'git': case 'gitclone':
-if (!text) return reply(`🧩Where is the link?\n🔮Example :\n${prefix}${command} https://github.com/AYUSH-PANDEY023/Maria-Md `)
+if (!text) return reply(`🧩Where is the link?\n🔮Example :\n${prefix}${command} https://github.com/Anjan-Ser/ANJAN-MD-V2`)
 if (!isUrl(text) && !text.includes('github.com')) return reply(`Link invalid!!`)
     let repo = text.split('/');
     let url = `https://api.github.com/repos/${repo[3]}/${repo[4]}/zipball`
@@ -2609,7 +2607,7 @@ case 'naturetypography':
 case 'quotesunder':
 case 'shinetext':{
 
-if (!q) return reply(`🔮Example : ${prefix+command} Ayush`) 
+if (!q) return reply(`🔮Example : ${prefix+command} Anjan`) 
 let link
 if (/stonetext/.test(command)) link = 'https://photooxy.com/online-3d-white-stone-text-effect-utility-411.html'
 if (/writeart/.test(command)) link = 'https://photooxy.com/logo-and-text-effects/write-art-quote-on-wood-heart-370.html'
@@ -2702,17 +2700,11 @@ https://chat.whatsapp.com/${response}
 case 'developer':
 case 'dev':
     const devmod = `  🍥 *Moderators* 🍥\n\n
-*🎫Ayush* @919931122319
-
-*🎫xeon* @916909137213
-
-*🎫Pikachu* @918811074852
-
-*🎫OldUser* @918602239106
+*🎫Ayush* @919883457657
  \n
-\n📛*Don't Spam them to avoid Blocking !*\n\n For any help, type *${prefix}support* and ask in the group.\n\n*✨️Thanks for using Maria-Md* `;
+\n📛*Don't Spam them to avoid Blocking !*\n\n For any help, type *${prefix}support* and ask in the group.\n\n*✨️Thanks for using Anjan-Ser* `;
 
-    Maria.sendMessage(m.chat, { text: devmod, mentions: ["919931122319@s.whatsapp.net", "918811074852@s.whatsapp.net", "916909137213@s.whatsapp.net","918602239106@s.whatsapp.net"] }, { quoted: m });
+    Maria.sendMessage(m.chat, { text: devmod, mentions: ["919883457657@s.whatsapp.net"] }, { quoted: m });
     break;
 
 
@@ -3060,7 +3052,7 @@ break;
   
 case 'google': {
 Maria.sendMessage(from, { react: { text: "🔎", key: m.key }}) 
-if (!q) return reply(`Example : ${prefix + command} 𝘈𝘺𝘶𝘴𝘩 𝘱𝘢𝘯𝘥𝘦𝘺`)
+if (!q) return reply(`Example : ${prefix + command} 𝘈njan`)
 let google = require('google-it')
 google({'query': text}).then(res => {
 let teks = `「🏮 *Google Search Engine*🏮」 \n\n
@@ -3188,8 +3180,8 @@ case 'chat':
         
         
 case "info":
-            Maria.sendMessage(from, { react: { text: "", key: m.key }}) 
-        let ifx = `❁ ════ ❃•💙 *MARIA* 💙•❃ ════ ❁
+            Maria.sendMessage(from, { react: { text: "😆", key: m.key }}) 
+        let ifx = `❁ ════ ❃•💙 *Anjan-Ser* 💙•❃ ════ ❁
 
 \`\`\`A FULL FLEDGED MULTI DEVICE WHATSAPP BOT WITH COOL FEATURES\`\`\`
 
@@ -3197,10 +3189,10 @@ case "info":
 \`\`\`A simple and easy-to-use WhatsApp bot project based on Multi-Device Baileys and written in JavaScript\`\`\`
 
 ❁ ══════ ❃•📄 *NOTE* 📄•❃ ══════ ❁
-\`\`\`This bot is a free open source project by THE TEAM AYUSH\`\`\`
+\`\`\`This bot is a free open source project by THE TEAM ANJAN\`\`\`
 
 ❁ ═════ ❃•📑 *GITHUB* 📑•❃ ═════ ❁
-*_LINK:- https://github.com/AYUSH-PANDEY023/Maria-MD_*
+*_LINK:- https://github.com/Anjan-Ser/ANJAN-MD-V2*
 
 
 ❁ ═══ ❃•✍🏻 *CONTRIBUTE* ✍🏻•❃ ═══ ❁
@@ -3216,7 +3208,7 @@ Maria.sendMessage(m.chat, { image: { url: "https://graph.org/file/c8ad7dc322c0b9
         let tifx = `*𝚃𝙴𝚁𝙼𝚜 𝙰𝙽𝙳 𝙲𝙾𝙽𝙳𝙸𝚃𝙸𝙾𝙽*\n\n
 ⍟ *────────────────* ⍟ 
 
-📝 Note: Beware of fake Maria-MD bots! People may falsely claim to represent Maria-MD. Please exercise caution.
+📝 Note: Beware of fake Anjan bots! People may falsely claim to represent Anjan-MD. Please exercise caution.
 
 _Whatsapp Bots have become increasingly popular, but with that comes the risk of encountering fake accounts. Stay vigilant._
 
@@ -3233,8 +3225,8 @@ _We will update the bot's terms and conditions periodically, so it's your respon
 _If you have any questions regarding our terms, please reach out to us._
 _For everything else, use common sense._
 
-*FUTURE IS NOW🚀~MARIA-MD*
-*_🚀Team Ayush_*
+*FUTURE IS NOW🚀~Anjan-MD*
+*_🚀Team Anjan_*
 
 ⍟ *────────────────* ⍟`
 
