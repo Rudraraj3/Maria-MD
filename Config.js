@@ -17,7 +17,7 @@ global.packname = 'Sticker By'
 global.author = process.env.AUTHOR || "🔥⃝𝑨𝑵𝑱𝑨𝑵-𝑿𝑫",
 //console view/theme
 global.themeemoji = '🧩'
-global.wm = "Ayush botz inc."
+global.wm = "Anjan botz inc."
 
 //theme link
 global.link = 'https://chat.whatsapp.com/DDTeSuCbP4BLgBkEqNoUqg'
