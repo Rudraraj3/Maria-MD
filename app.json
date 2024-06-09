@@ -1,5 +1,5 @@
 {
-    "name": "Maria-MD",
+    "name": "Anjan-MD",
     "description": "A WhatsApp bot based on Baileysjs with Multi-Device support",
     "repository": "https://github.com/AYUSH-PANDEY023/Maria-Md",
     "logo": "https://telegra.ph/file/351133422917a8bd7d776.jpg",
@@ -12,7 +12,7 @@
       "description": "Put your number here"
     },
          "BOTNAME": {
-      "description": "Name of your bot. Ex: - Maria-Bot"
+      "description": "Name of your bot. Ex: -🔥⃝𝑨𝑵𝑱𝑨𝑵-𝑿𝑫🔥"
     },
      "PREFIX": {
       "description": "set your bot prefix here ex:- '!' "
@@ -21,7 +21,7 @@
       "description": "set your bot author name here"
     },
     "STICKER": {
-      "description": "set your bot sticker package name ex:- Ayush"
+      "description": "set your bot sticker package name ex:- 🔥⃝𝑨𝑵𝑱𝑨𝑵-𝑿𝑫"
     },
      "id": {
       "description": "Put your session id here"
